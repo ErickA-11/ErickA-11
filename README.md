@@ -48,21 +48,29 @@ servicios para el cuidado de mascotas. Simulación laboral realizada con [No Cou
 - **Características:** Solicitud de los distintos servicios disponibles, autenticación de usuarios con JWT y Google, calificar a los cuidadores
 - **Estado:** Completado
 
-**Repositorios**
+**Enlaces**
 
-- [MascoCuidado](https://github.com/No-Country/c17-11-t-node-react)
+- [Repositorio](https://github.com/No-Country/c17-11-t-node-react)
+- [Postman Collection](https://www.postman.com/altimetry-physicist-7128707/workspace/public-collections/collection/17566230-c99a6ca4-a9b6-4822-b381-ea01c2ef34be?action=share&creator=17566230&active-environment=17566230-98673450-615b-407f-86c3-a89b9faaf072)
 
-<!-- ### 4. [Nombre del Proyecto 4](enlace-al-repositorio-4)
-**Descripción:** Breve descripción del proyecto. Por ejemplo, "Una aplicación móvil de seguimiento de hábitos."
-- **Tecnologías:** Flutter, Firebase
-- **Características:** Registro y seguimiento de hábitos, notificaciones push, almacenamiento en la nube
-- **Estado:** Completado / En progreso
+### 4. Club Manager
+
+**Descripción:** Sitio web para un club donde los clientes pueden registrarse y suscribirse a una de las membresías del club, gestionar la suscripción y actividades a las cuales quiere participar. Este proyecto se realizo en la simulación laboral en [No Country](https://www.nocountry.tech/). El rol que ejercí fue desarrollador backend. 
+
+- **Tecnologías:** NextJS, React, Typescript, NestJS, PostgreSQL, Docker
+- **Características:** Registro de usuarios, autenticación, roles de usuario, visualización de contenido dependiendo del rol de Usuario, pasarela de pago.
+- **Estado:** Completado
+
+**Enlaces**
+
+- [Repositorio](https://github.com/ErickA2000/no-country-s15-06)
+- [Postman Collection](https://www.postman.com/miraiisoft/workspace/public-collections/collection/36160797-8e50fe2d-8b43-4d28-9213-69ba66220b5b?action=share&creator=36160797&active-environment=36160797-1b2c2db8-4602-4cde-9e8c-9b809eefe3bb)
 
 ## Otros Proyectos
 
-- [Nombre del Proyecto 5](enlace-al-repositorio-5) - Descripción breve.
-- [Nombre del Proyecto 6](enlace-al-repositorio-6) - Descripción breve.
-- [Nombre del Proyecto 7](enlace-al-repositorio-7) - Descripción breve. -->
+- [Parking API](https://github.com/ErickA2000/parking-api) - API REST para la gestión de parqueaderos con autenticación de usuarios y distintos roles. Este proyecto esta relacionado con el de Mail API.
+- [Mail API](https://github.com/ErickA2000/mail-api) - API REST para el envió de correos electrónicos con nodemailer.
+<!-- - [Nombre del Proyecto 7](enlace-al-repositorio-7) - Descripción breve. -->
 
 ## Contacto
 
